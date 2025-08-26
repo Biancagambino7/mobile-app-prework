@@ -122,6 +122,7 @@
                     <connections>
                         <outlet property="firstName" destination="hxY-Td-Wnw" id="Kcm-9D-Q4f"/>
                         <outlet property="lastName" destination="2Yt-B9-QcC" id="yNt-04-fQW"/>
+                        <outlet property="morePetsASwitch" destination="1Hp-wv-3i1" id="Tse-fV-dsw"/>
                         <outlet property="morePetsStepper" destination="NDq-ja-urM" id="FAo-gG-qgK"/>
                         <outlet property="morePetsSwitch" destination="Ks5-5I-chG" id="YwY-Kt-Y0Y"/>
                         <outlet property="numberOfPets" destination="1Hp-wv-3i1" id="Spd-S6-Ws3"/>

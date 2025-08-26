@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet weak var morePetsSwitch: UISwitch!
+    @IBOutlet weak var morePetsASwitch: UILabel!
     @IBOutlet weak var morePetsStepper: UIStepper!
     @IBOutlet weak var firstName: UITextField!
     @IBOutlet weak var lastName: UITextField!
